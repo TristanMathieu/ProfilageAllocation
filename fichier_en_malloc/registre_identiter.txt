@@ -1,0 +1,35 @@
+Profil 1
+Nom : MATHIEU
+Prénom : Tristan
+Adresse : 7 rue du haut-koenigsbourg
+Ville : Hoeniem
+Code Postal : 67800
+
+Profil 3
+Nom : tristan
+Prenom : Mathieu
+Adresse : 7 rue du gloubilgo
+Ville : strasbourg
+Code Postal : 67000
+
+Profil X
+Nom : ÿÿÿÿþÿÿÿ
+Prenom : fjeoz^
+Adresse : grkpz
+Ville : grzkp$zf
+Code Postal : gjzr—rzg
+
+Profil X
+Nom : ÿÿÿÿþÿÿÿ
+Prenom : gr
+Adresse : gr
+Ville : gr
+Code Postal : rg
+
+Profil X
+Nom : ÿÿÿÿþÿÿÿ
+Prenom : gzkprh
+Adresse : gr
+Ville : grege
+Code Postal : ht
+

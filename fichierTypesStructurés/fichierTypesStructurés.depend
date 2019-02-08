@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1549663136 source:d:\users\admin\documents\projects_codeblocks\fichiertypesstructurés\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"identiter.h"
+
+1549663322 source:d:\users\admin\documents\projects_codeblocks\fichiertypesstructurés\ecritureregistre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"identiter.h"
+
+1549359165 d:\users\admin\documents\projects_codeblocks\fichiertypesstructurés\identiter.h
+
+1549359355 source:d:\users\admin\documents\projects_codeblocks\fichiertypesstructurés\lecture.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
